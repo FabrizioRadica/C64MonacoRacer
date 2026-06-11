@@ -8,6 +8,13 @@ The project was created as a test using **Claude Fable5**, then manually reviewe
 
 The game is a simple top-down racing game where the player's car stays near the bottom of the screen while the road scrolls vertically.
 
+<img width="327" height="230" alt="Screenshot 2026-06-11 091811" src="https://github.com/user-attachments/assets/748571cc-53d6-40a9-b92a-c519afc45b2d" />
+
+<img width="319" height="222" alt="Screenshot 2026-06-11 092853" src="https://github.com/user-attachments/assets/4e527e31-4858-4aba-bd1f-8b71891a5ad8" />
+
+<img width="334" height="248" alt="Screenshot 2026-06-11 092904" src="https://github.com/user-attachments/assets/f4e934d9-0c2c-499e-ae18-f58d7d4d71f9" />
+
+
 The project includes:
 
 * 6502 Assembly source code using ACME syntax;
