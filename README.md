@@ -14,6 +14,8 @@ The game is a simple top-down racing game where the player's car stays near the 
 
 <img width="334" height="248" alt="Screenshot 2026-06-11 092904" src="https://github.com/user-attachments/assets/f4e934d9-0c2c-499e-ae18-f58d7d4d71f9" />
 
+<img width="658" height="475" alt="Screenshot 2026-06-11 133819" src="https://github.com/user-attachments/assets/c7530d5a-6847-4286-9a02-880e9a63e010" />
+
 
 The project includes:
 
